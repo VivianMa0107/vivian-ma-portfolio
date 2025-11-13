@@ -1,13 +1,8 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Critique and Redesign Assignment: The Cheapest Countries to Study in Europe
-Text here...
 
-_For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
-
-_You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
-
-## Step one: the visualization
+## Step one: The Visualization
 
 The data visualization I chose to critique and redesign is this one: https://www.finder.com/uk/current-accounts/student-bank-accounts/cheapest-countries-to-study-europe
 
@@ -16,11 +11,13 @@ The map provides an overview of the average yearly costs (in UK pounds) to study
 I’m particularly interested in examining this data visualization because I’m an international student who has studied in two different countries over the years. I have never lived in Europe as a student, so I’m curious to learn more about the living expenses and tuition costs associated with studying there.
 
 Here is a screenshot of the graph. On the website, viewers can hover over each country on the map to see its name and total yearly costs.
-[IMAGE]
+
+<img src="original data viz.png" width="1000"/>
 
 
-## Step two: the critique
-_Describe your overall observations about the data visualization here. What stood out to you? What did you find worked really well? What didn’t work well?_
+
+## Step two: The Critique
+### _Describe your overall observations about the data visualization here. What stood out to you? What did you find worked really well? What didn’t work well?_
 
 Because the dataset contains geographical information (country names), using a map as the data visualization is appropriate for two reasons: (1) With 28 countries included, mapping the regions rather than listing them reduces the complexity of the graph, and (2) the map makes it immediately clear which regions have data collected and which do not.
 
@@ -31,24 +28,27 @@ However, this graph also has several issues:
 2) While the color gradient suggests different levels of expense, it does not allow viewers to easily identify the cheapest countries, since all lower-cost regions appear in similar shades. Thus, the design only conveys relative differences in expenses but fails to highlight rankings, which should be the central message of the graph. A clearer legend with distinct color bands for expense levels would improve viewers’ immediate comprehension.
 3) Although maps can highlight areas where data/information is missing, in this case, the gray regions add little value to viewers’ understanding and may be perceived as unnecessary.
 
-_Who is the primary audience for this tool? Do you think this visualization is effective for reaching that audience? Why or why not?_
+### _Who is the primary audience for this tool? Do you think this visualization is effective for reaching that audience? Why or why not?_
 
 I found this data visualization on Finder, a UK-based personal finance and investing company, so the intended audience of this graph is likely its clients or potential clients, specifically younger generations who are interested in studying or living in other European countries. Since I assume this group generally has a basic familiarity with data visualization, the graph is fairly easy to comprehend, particularly for those interested in quickly identifying regions with higher or lower costs. Despite some design issues that reduce its intuitiveness, the visualization remains easy to interpret due to its simplicity and interactive features. Users can hover over a country to see its name and total costs, which helps clarify the graph. However, the graph is less effective for viewers seeking to identify the countries with the lowest cost. To do so, they must manually click through each country’s data and compare on their own, rather than seeing the ranking presented directly on the graph.
 
-_Based on your critique, what do you think you’ll try to focus on in your redesign? Any ideas or inspiration for how you can make a better data visualization? What are you excited to try next?_
+### _Based on your critique, what do you think you’ll try to focus on in your redesign? Any ideas or inspiration for how you can make a better data visualization? What are you excited to try next?_
 
 For my redesign, I want to prioritize conveying the central message: helping viewers easily identify the European countries with the lowest costs for studying and living. To achieve this, I want to emphasize country rankings, since a map is not particularly effective for that purpose. I also noted that the original dataset breaks total costs into tuition fees and living expenses, which is information missing from the current visualization. Including this breakdown would add valuable context, as audiences are likely to be curious about how the totals are calculated. Finally, I am not concerned with displaying countries where data is unavailable because they are not necessary to understanding the graph.
 
 With these three goals in mind, I decided to use a stacked bar chart. While the inclusion of 28 countries will make the chart lengthy, I believe this is acceptable as long as the design remains intuitive and the rankings are clear. I considered using distinct colors to highlight the top 10 cheapest countries, but I suspect this may be unnecessary because ranking by bar length alone should allow viewers to quickly distinguish the least expensive options.
 
 
-## Step three: Sketch a solution
+
+## Step three: Sketch a Solution
 
 Taking my critique and brainstorm into consideration, I drafted the following graph as my redesigned visualization. I intentionally sorted the countries from cheapest to most expensive so that viewers can immediately identify the most affordable destinations for study. For the cost breakdown, I selected two distinct yet visually balanced colors, mint green and orange, that are easy on the eyes without being overly vibrant. A legend placed on the side is used to clarify the categories of cost represented in the breakdown of total costs. 
-[IMAGE]
+
+<img src="redesign draft.jpeg" width="1000"/>
 
 
-## Step four: Test the solution
+
+## Step four: Test the Solution
 
 Without providing background on the original graphic or its sources, I asked two peers for feedback on my redesign draft. Below is a summary of their responses.
 
@@ -58,14 +58,9 @@ The second peer is a student in the MSPPM program. She believed the primary audi
 
 Each of my peers have different interests when viewing the chart: one paid attention to country-specific costs and missing data, and the other on the breakdown of expenses. The MAM student’s comments made me realize that missing values, such as Switzerland, may be more important to some viewers than I initially assumed. The MSPPM student’s feedback highlighted the need to use Tableau for my final redesign, since its interactive features would enhance the clarity and usability of this draft. Her question about whether the data reflects higher education costs also underscored the need to revise the title to provide more precise context.
 
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
 
 
-## Step five: build the solution
+## Step five:  Build the Solution
 
 Based on the feedback I received, here are the changes I plan to make to my redesign draft:
 1) I will still exclude missing values from the graph, since the central message should remain focused on the cheapest countries for which data is available. But, I can add a note at the bottom of the graph clarifying that not all European countries are represented.
@@ -107,11 +102,14 @@ Based on the feedback I received, here are the changes I plan to make to my rede
 </script>
 
 
+
 ## References
 
-1) https://www.finder.com/uk/current-accounts/student-bank-accounts/cheapest-countries-to-study-europe
+Boyle, Matthew. “The Cheapest Countries to Study in Europe.” Finder UK, 11 July 2024, www.finder.com/uk/current-accounts/student-bank-accounts/cheapest-countries-to-study-europe. 
 
-## AI acknowledgements
+
+
+## AI Acknowledgements
 
 I used Grammarly to check my spelling and grammar for the write-up, and I used Microsoft Copilot to guide me through creating the stacked bar graph with my dataset in Tableau. 
 
