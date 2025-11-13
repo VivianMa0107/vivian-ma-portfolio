@@ -24,9 +24,9 @@ Because the dataset contains geographical information (country names), using a m
 Another strength of this graph lies in its simplicity and clarity. Instead of presenting a full world map, it focuses only on Europe. The color gradient from light to dark blue effectively conveys the transition from lower to higher costs, making the data visualization intuitive. The use of gray to indicate missing data is also logical, while the white background provides a strong contrast, making sure that the central elements stand out.
 
 However, this graph also has several issues:
-1) The title emphasizes the “cheapest countries to study in Europe,” yet darker shading represents more expensive countries. This misalignment creates confusion at first glance, requiring viewers to click into the graph to understand that darker areas actually indicate higher costs, not lower costs.
-2) While the color gradient suggests different levels of expense, it does not allow viewers to easily identify the cheapest countries, since all lower-cost regions appear in similar shades. Thus, the design only conveys relative differences in expenses but fails to highlight rankings, which should be the central message of the graph. A clearer legend with distinct color bands for expense levels would improve viewers’ immediate comprehension.
-3) Although maps can highlight areas where data/information is missing, in this case, the gray regions add little value to viewers’ understanding and may be perceived as unnecessary.
+- The title emphasizes the “cheapest countries to study in Europe,” yet darker shading represents more expensive countries. This misalignment creates confusion at first glance, requiring viewers to click into the graph to understand that darker areas actually indicate higher costs, not lower costs.
+-  While the color gradient suggests different levels of expense, it does not allow viewers to easily identify the cheapest countries, since all lower-cost regions appear in similar shades. Thus, the design only conveys relative differences in expenses but fails to highlight rankings, which should be the central message of the graph. A clearer legend with distinct color bands for expense levels would improve viewers’ immediate comprehension.
+-   Although maps can highlight areas where data/information is missing, in this case, the gray regions add little value to viewers’ understanding and may be perceived as unnecessary.
 
 ### _Who is the primary audience for this tool? Do you think this visualization is effective for reaching that audience? Why or why not?_
 
@@ -63,10 +63,10 @@ Each of my peers have different interests when viewing the chart: one paid atten
 ## Step five:  Build the Solution
 
 Based on the feedback I received, here are the changes I plan to make to my redesign draft:
-1) I will still exclude missing values from the graph, since the central message should remain focused on the cheapest countries for which data is available. But, I can add a note at the bottom of the graph clarifying that not all European countries are represented.
-2) I will retain the use of pounds as the currency unit, as the source website indicates that the primary audience for the graph is British, who are already familiar with pounds.
-3) I will revise the graphic’s title to specify that the figures represent the total costs of higher education (university) in Europe.
-4) I will use Tableau to produce the final redesign so that there will be more accurate bar scaling and interactive features that allow viewers to engage directly with the data.
+- I will still exclude missing values from the graph, since the central message should remain focused on the cheapest countries for which data is available. But, I can add a note at the bottom of the graph clarifying that not all European countries are represented.
+- I will retain the use of pounds as the currency unit, as the source website indicates that the primary audience for the graph is British, who are already familiar with pounds.
+- I will revise the graphic’s title to specify that the figures represent the total costs of higher education (university) in Europe.
+- I will use Tableau to produce the final redesign so that there will be more accurate bar scaling and interactive features that allow viewers to engage directly with the data.
 
 
 <div class='tableauPlaceholder' id='viz1763052347132' style='position: relative'>
