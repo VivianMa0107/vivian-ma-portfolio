@@ -21,9 +21,7 @@ Next, the narrative will shift to the U.S. tomato trade, examining how tomatoes 
 Ultimately, the story should reveal key insights as the journey concludes. For now, beyond illustrating the vast scale of this process and emphasizing how integral tomatoes are to daily life, I need to complete my data visualizations to uncover any additional messages.
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
-
-Text here...
+![Initial Sketch](6.jpg)
 
 ## The data
 For my final project, I will use six datasets: one from the Food and Agriculture Organization (FAO) and five from the USDA. Because some of the sources don’t update their data annually, there is some variation in the years covered by each dataset, but I ensured they all include data from at least the past five years to keep the analysis relevant.
