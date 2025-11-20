@@ -45,7 +45,7 @@ Together, these datasets will enable a comprehensive analysis of tomato producti
 |    USDA - Vegetables (All Uses) (Food Availability)  |  https://www.ers.usda.gov/data-products/food-availability-per-capita-data-system   |     Tracks tomato availability in the U.S. from 1993–2022 to measure supply trends.        |
 |   USDA - Vegetables (LAFA)   |   https://www.ers.usda.gov/data-products/food-availability-per-capita-data-system  |      Adjusts the food availability data for waste and spoilage to estimate actual tomato consumption in the U.S. from 1970–2022.       |
 
-# Method and medium
+## Method and medium
 I plan to use Procreate to design some visually appealing icons and graphics that complement the story and theme of tomatoes. Tableau will be my primary tool for data visualization, and I will integrate these hand-drawn graphics into the visualizations to make them interesting to look at and interpret. Finally, the interactive deliverable will be published using Shorthand.
 
 ## References
