@@ -1,7 +1,8 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-_Link to Shorthand:_
+_Link to Shorthand:_ https://preview.shorthand.com/9Xa2dqQw8LRZengJ
+
 
 # User research 
 
@@ -55,7 +56,7 @@ Interview 4 - A general audience who likes to cook (50s)
 ![Moodboard](Moodboard.jpg)
 
 ## References
-
+No additional reference at this point, but will include more in the Shorthand webpage.
 
 ## AI acknowledgements
 I used Gemini to help me brainstorm interview question prompts based on the project goals I determined for myself, and I used Grammarly to correct the grammar and spelling for this write-up.
