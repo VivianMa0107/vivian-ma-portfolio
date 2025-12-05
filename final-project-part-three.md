@@ -30,11 +30,11 @@ If I were to enhance this project further, I would definitely include a dedicate
 All the project references are listed at the end of the Shorthand webpage and throughout the webpage as in-text citations. There is no additional reference for this write-up.
 
 
-# AI acknowledgements
+# AI Acknowledgements
 I used Gemini to help instruct me on creating data visualizations in Tableau and Datawrapper, and to help rephrase some of my writing on Shorthand in a more conversational and interesting way. For this write-up, I used Grammarly to check my spelling and grammar.
 
 
-# Final thoughts
+# Final Thoughts
 I really enjoyed developing this final project from scratch, outlining the core narrative, finding supporting data to visualize the insights, and presenting the story on an interactive webpage. Although settling on a topic and cleaning the raw datasets took some time, the entire process has provided valuable practical experience. I am now far more comfortable and familiar with using Tableau Prep for data cleaning, and Tableau and Datawrapper for visualizing data. I am also much more critical and conscious of design elements like labels, text, and color, which are elements I previously overlooked when creating graphics. 
 
 If I could change one element of this project, it would be the timeline. Starting the project earlier would allow for more time to receive more feedback on our progress and implement necessary revisions, which would definitely enhance the quality of the final product.
