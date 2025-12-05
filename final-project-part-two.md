@@ -1,11 +1,11 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Wireframes / storyboards
+# Wireframes / Storyboards
 [Link to Shorthand](https://preview.shorthand.com/9Xa2dqQw8LRZengJ)
 
-# User research 
+# User Research 
 
-## Target audience
+## Target Audience
 Because the tomato is a ubiquitous food staple, I structured this project for a broad audience rather than a niche group of people. Yet, I believe the following readers will find the story most engaging:
 
 * **Consumers of Tomato Products:** They can follow the full journey of a vegetable they enjoy, from production and global trade to final consumption, by tracing the tomato's supply chain.
@@ -13,7 +13,7 @@ Because the tomato is a ubiquitous food staple, I structured this project for a 
 * **The Generally Curious Reader:** This project can offer a new perspective on an everyday item, providing interesting facts and context often overlooked.
 
 
-## Interview script
+## Interview Script
 
 | Goal | Questions to Ask |
 |------|------------------|
@@ -23,7 +23,7 @@ Because the tomato is a ubiquitous food staple, I structured this project for a 
 |**Storytelling and structure:** Evaluate the project’s overall flow and completeness as a narrative.|Do you feel there are any missing topics or gaps in the narrative regarding the life of a tomato?|
 
 
-## Interview findings
+## Interview Findings
 Interview 1 - classmate (MAM program, 20s)
 
 Interview 2 - classmate (MEIM program, 20s)
@@ -41,7 +41,7 @@ Interview 4 - A general audience who likes to cook (50s)
 | Do you feel there are any missing topics or gaps in the narrative regarding the life of a tomato? | Can add some relevant statistics showing how many people like tomatoes to make the narrative more engaging. | Consider concluding the story with a call to Action, such as encouraging readers to buy locally sourced tomatoes. | Can provide more context for the data visualizations, especially the two anecdote graphics, so they flow well with the story. | No, the story is coherent. |
 
 
-# Identified changes for Part III
+# Identified Changes for Part III
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
@@ -57,6 +57,6 @@ Interview 4 - A general audience who likes to cook (50s)
 ## References
 No additional reference at this point, but will include more in the Shorthand webpage.
 
-## AI acknowledgements
+## AI Acknowledgements
 I used Gemini to help me brainstorm interview question prompts based on the project goals I determined for myself, and I used Grammarly to correct the grammar and spelling for this write-up.
 
