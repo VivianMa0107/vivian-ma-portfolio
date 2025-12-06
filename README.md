@@ -12,7 +12,7 @@ Hi! My name is Vivian Ma (she/her), and I'm a student from the Master of Arts Ma
 - I hope to get myself more familiarized with data visualization softwares, like Tableau and Datawrapper.
 
 # Portfolio
-## Assignment: [Visualizing Government Debt](dataviz-examples)
+## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
 In this assignment, I created a heatmap to visualize general government debt of different countries from 1995 to 2019.
 
 ## Assignment: [Critique by Design](critique-by-design)
